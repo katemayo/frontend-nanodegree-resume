@@ -8,7 +8,7 @@ var bio = {
 		"location": "Washington, DC, USA",
     "flickr": "https://www.flickr.com/people/141176327@N06/"
 	},
-	"picture": "images/me.png",
+	"picture": "images/DSC_4109 (3).JPG",
 	"welcomeMessage": "I'm currently working in the federal consulting in the DC metro area. I love learning new things and "+
 			  "starting projects.",
 	"skills": ["JavaScript", "Web Development", "Chinese", "Spanish", "SQL"]
